@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BED3F973-D84A-4120-BCCB-00A5513CED66"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6A264C8-4363-4C1D-AA4B-8BDADCBA8F08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmApplication/View/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "tuneTableView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6A264C8-4363-4C1D-AA4B-8BDADCBA8F08 - 81baa54adc50b9e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmApplication.ListViewController.tuneTableView() -&gt; ()"
+                  moduleName = "RealmApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skorodumovds/Desktop/RealmApplication/RealmApplication/RealmApplication/View/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "B6A264C8-4363-4C1D-AA4B-8BDADCBA8F08 - 81baa54adc50b9e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmApplication.ListViewController.tuneTableView() -&gt; ()"
+                  moduleName = "RealmApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skorodumovds/Desktop/RealmApplication/RealmApplication/RealmApplication/View/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "115C32E7-F114-43C6-AB1D-8B99FED625A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmApplication/View/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A38CDC82-CCC7-4FEB-AEFC-CA9467C9B955"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmApplication/Delegates/ListViewControllerDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getJokeList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A38CDC82-CCC7-4FEB-AEFC-CA9467C9B955 - 6640128f0055c4c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RealmApplication.RealmJoke) -&gt; () in RealmApplication.ListInspector.getJokeList() -&gt; Swift.Array&lt;RealmApplication.JokeListModel&gt;"
+                  moduleName = "RealmApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skorodumovds/Desktop/RealmApplication/RealmApplication/RealmApplication/Delegates/ListViewControllerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "A38CDC82-CCC7-4FEB-AEFC-CA9467C9B955 - 933ea88b20ddad5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RealmApplication.RealmJoke) -&gt; RealmApplication.JokeListModel in RealmApplication.ListInspector.getJokeList() -&gt; Swift.Array&lt;RealmApplication.JokeListModel&gt;"
+                  moduleName = "RealmApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skorodumovds/Desktop/RealmApplication/RealmApplication/RealmApplication/Delegates/ListViewControllerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE116175-020C-4367-A4B9-5B3359E48CC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmApplication/Delegates/ListViewControllerDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getJokeList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE116175-020C-4367-A4B9-5B3359E48CC8 - e1926b341a228149"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmApplication.ListInspector.getJokeList() -&gt; Swift.Array&lt;RealmApplication.JokeListModel&gt;"
+                  moduleName = "RealmApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skorodumovds/Desktop/RealmApplication/RealmApplication/RealmApplication/Delegates/ListViewControllerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "AE116175-020C-4367-A4B9-5B3359E48CC8 - 933ea88b20ddad5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RealmApplication.RealmJoke) -&gt; RealmApplication.JokeListModel in RealmApplication.ListInspector.getJokeList() -&gt; Swift.Array&lt;RealmApplication.JokeListModel&gt;"
+                  moduleName = "RealmApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/skorodumovds/Desktop/RealmApplication/RealmApplication/RealmApplication/Delegates/ListViewControllerDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

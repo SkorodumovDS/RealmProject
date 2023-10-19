@@ -13,6 +13,25 @@
 		C935FD912AE04689003F04B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C935FD8F2AE04689003F04B1 /* Main.storyboard */; };
 		C935FD932AE0468B003F04B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C935FD922AE0468B003F04B1 /* Assets.xcassets */; };
 		C935FD962AE0468B003F04B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C935FD942AE0468B003F04B1 /* LaunchScreen.storyboard */; };
+		C935FD9E2AE04745003F04B1 /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FD9D2AE04745003F04B1 /* MainCoordinator.swift */; };
+		C935FDA02AE04764003F04B1 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FD9F2AE04764003F04B1 /* MainTabBarController.swift */; };
+		C935FDA22AE04793003F04B1 /* Factory.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDA12AE04793003F04B1 /* Factory.swift */; };
+		C935FDA42AE04AB9003F04B1 /* DownloadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDA32AE04AB9003F04B1 /* DownloadViewController.swift */; };
+		C935FDAB2AE04B9B003F04B1 /* DownloadTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDAA2AE04B9B003F04B1 /* DownloadTableViewCell.swift */; };
+		C935FDAD2AE04F9C003F04B1 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDAC2AE04F9C003F04B1 /* ListViewController.swift */; };
+		C935FDAF2AE04FDB003F04B1 /* ListViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDAE2AE04FDB003F04B1 /* ListViewCell.swift */; };
+		C935FDB12AE05102003F04B1 /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDB02AE05102003F04B1 /* CategoryViewController.swift */; };
+		C935FDB32AE0511E003F04B1 /* CategoryViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDB22AE0511E003F04B1 /* CategoryViewCell.swift */; };
+		C935FDB62AE0517D003F04B1 /* QuoteOfCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDB52AE0517D003F04B1 /* QuoteOfCategoryViewController.swift */; };
+		C935FDB82AE051B2003F04B1 /* QuoteViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDB72AE051B2003F04B1 /* QuoteViewCell.swift */; };
+		C935FDBB2AE0573F003F04B1 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDBA2AE0573F003F04B1 /* CustomButton.swift */; };
+		C935FDBE2AE0595C003F04B1 /* DownloadViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDBD2AE0595C003F04B1 /* DownloadViewControllerDelegate.swift */; };
+		C935FDC12AE185F4003F04B1 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = C935FDC02AE185F4003F04B1 /* Realm */; };
+		C935FDC32AE185F4003F04B1 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = C935FDC22AE185F4003F04B1 /* RealmSwift */; };
+		C935FDC62AE18639003F04B1 /* RealmJoke.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDC52AE18639003F04B1 /* RealmJoke.swift */; };
+		C935FDC82AE1892B003F04B1 /* ListViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDC72AE1892B003F04B1 /* ListViewControllerDelegate.swift */; };
+		C935FDCA2AE1952E003F04B1 /* CategoryViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDC92AE1952E003F04B1 /* CategoryViewControllerDelegate.swift */; };
+		C935FDCC2AE199C6003F04B1 /* QuoteOfCategoryViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C935FDCB2AE199C6003F04B1 /* QuoteOfCategoryViewControllerDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +43,23 @@
 		C935FD922AE0468B003F04B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C935FD952AE0468B003F04B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C935FD972AE0468B003F04B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C935FD9D2AE04745003F04B1 /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = "<group>"; };
+		C935FD9F2AE04764003F04B1 /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
+		C935FDA12AE04793003F04B1 /* Factory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Factory.swift; sourceTree = "<group>"; };
+		C935FDA32AE04AB9003F04B1 /* DownloadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadViewController.swift; sourceTree = "<group>"; };
+		C935FDAA2AE04B9B003F04B1 /* DownloadTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadTableViewCell.swift; sourceTree = "<group>"; };
+		C935FDAC2AE04F9C003F04B1 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		C935FDAE2AE04FDB003F04B1 /* ListViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewCell.swift; sourceTree = "<group>"; };
+		C935FDB02AE05102003F04B1 /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
+		C935FDB22AE0511E003F04B1 /* CategoryViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewCell.swift; sourceTree = "<group>"; };
+		C935FDB52AE0517D003F04B1 /* QuoteOfCategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteOfCategoryViewController.swift; sourceTree = "<group>"; };
+		C935FDB72AE051B2003F04B1 /* QuoteViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteViewCell.swift; sourceTree = "<group>"; };
+		C935FDBA2AE0573F003F04B1 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		C935FDBD2AE0595C003F04B1 /* DownloadViewControllerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadViewControllerDelegate.swift; sourceTree = "<group>"; };
+		C935FDC52AE18639003F04B1 /* RealmJoke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmJoke.swift; sourceTree = "<group>"; };
+		C935FDC72AE1892B003F04B1 /* ListViewControllerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewControllerDelegate.swift; sourceTree = "<group>"; };
+		C935FDC92AE1952E003F04B1 /* CategoryViewControllerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewControllerDelegate.swift; sourceTree = "<group>"; };
+		C935FDCB2AE199C6003F04B1 /* QuoteOfCategoryViewControllerDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteOfCategoryViewControllerDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +67,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C935FDC32AE185F4003F04B1 /* RealmSwift in Frameworks */,
+				C935FDC12AE185F4003F04B1 /* Realm in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,6 +94,12 @@
 		C935FD882AE04689003F04B1 /* RealmApplication */ = {
 			isa = PBXGroup;
 			children = (
+				C935FDC42AE1861F003F04B1 /* OtherLogics */,
+				C935FDBC2AE05945003F04B1 /* Delegates */,
+				C935FDA82AE04B5A003F04B1 /* Coordinators */,
+				C935FDA72AE04B49003F04B1 /* Factory */,
+				C935FDA62AE04B40003F04B1 /* Cells */,
+				C935FDA52AE04B2F003F04B1 /* View */,
 				C935FD892AE04689003F04B1 /* AppDelegate.swift */,
 				C935FD8B2AE04689003F04B1 /* SceneDelegate.swift */,
 				C935FD8D2AE04689003F04B1 /* ViewController.swift */,
@@ -63,8 +107,67 @@
 				C935FD922AE0468B003F04B1 /* Assets.xcassets */,
 				C935FD942AE0468B003F04B1 /* LaunchScreen.storyboard */,
 				C935FD972AE0468B003F04B1 /* Info.plist */,
+				C935FDBA2AE0573F003F04B1 /* CustomButton.swift */,
 			);
 			path = RealmApplication;
+			sourceTree = "<group>";
+		};
+		C935FDA52AE04B2F003F04B1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C935FDA32AE04AB9003F04B1 /* DownloadViewController.swift */,
+				C935FDAC2AE04F9C003F04B1 /* ListViewController.swift */,
+				C935FDB02AE05102003F04B1 /* CategoryViewController.swift */,
+				C935FDB52AE0517D003F04B1 /* QuoteOfCategoryViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		C935FDA62AE04B40003F04B1 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				C935FDAA2AE04B9B003F04B1 /* DownloadTableViewCell.swift */,
+				C935FDAE2AE04FDB003F04B1 /* ListViewCell.swift */,
+				C935FDB22AE0511E003F04B1 /* CategoryViewCell.swift */,
+				C935FDB72AE051B2003F04B1 /* QuoteViewCell.swift */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		C935FDA72AE04B49003F04B1 /* Factory */ = {
+			isa = PBXGroup;
+			children = (
+				C935FDA12AE04793003F04B1 /* Factory.swift */,
+			);
+			path = Factory;
+			sourceTree = "<group>";
+		};
+		C935FDA82AE04B5A003F04B1 /* Coordinators */ = {
+			isa = PBXGroup;
+			children = (
+				C935FD9D2AE04745003F04B1 /* MainCoordinator.swift */,
+				C935FD9F2AE04764003F04B1 /* MainTabBarController.swift */,
+			);
+			path = Coordinators;
+			sourceTree = "<group>";
+		};
+		C935FDBC2AE05945003F04B1 /* Delegates */ = {
+			isa = PBXGroup;
+			children = (
+				C935FDBD2AE0595C003F04B1 /* DownloadViewControllerDelegate.swift */,
+				C935FDC72AE1892B003F04B1 /* ListViewControllerDelegate.swift */,
+				C935FDC92AE1952E003F04B1 /* CategoryViewControllerDelegate.swift */,
+				C935FDCB2AE199C6003F04B1 /* QuoteOfCategoryViewControllerDelegate.swift */,
+			);
+			path = Delegates;
+			sourceTree = "<group>";
+		};
+		C935FDC42AE1861F003F04B1 /* OtherLogics */ = {
+			isa = PBXGroup;
+			children = (
+				C935FDC52AE18639003F04B1 /* RealmJoke.swift */,
+			);
+			path = OtherLogics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +186,10 @@
 			dependencies = (
 			);
 			name = RealmApplication;
+			packageProductDependencies = (
+				C935FDC02AE185F4003F04B1 /* Realm */,
+				C935FDC22AE185F4003F04B1 /* RealmSwift */,
+			);
 			productName = RealmApplication;
 			productReference = C935FD862AE04689003F04B1 /* RealmApplication.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +218,9 @@
 				Base,
 			);
 			mainGroup = C935FD7D2AE04689003F04B1;
+			packageReferences = (
+				C935FDBF2AE185F4003F04B1 /* XCRemoteSwiftPackageReference "realm-swift" */,
+			);
 			productRefGroup = C935FD872AE04689003F04B1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -139,8 +249,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				C935FD8E2AE04689003F04B1 /* ViewController.swift in Sources */,
+				C935FDBE2AE0595C003F04B1 /* DownloadViewControllerDelegate.swift in Sources */,
+				C935FDAB2AE04B9B003F04B1 /* DownloadTableViewCell.swift in Sources */,
+				C935FDAF2AE04FDB003F04B1 /* ListViewCell.swift in Sources */,
+				C935FDC82AE1892B003F04B1 /* ListViewControllerDelegate.swift in Sources */,
+				C935FD9E2AE04745003F04B1 /* MainCoordinator.swift in Sources */,
+				C935FDA22AE04793003F04B1 /* Factory.swift in Sources */,
+				C935FDB82AE051B2003F04B1 /* QuoteViewCell.swift in Sources */,
+				C935FDA42AE04AB9003F04B1 /* DownloadViewController.swift in Sources */,
+				C935FDAD2AE04F9C003F04B1 /* ListViewController.swift in Sources */,
+				C935FDA02AE04764003F04B1 /* MainTabBarController.swift in Sources */,
+				C935FDB62AE0517D003F04B1 /* QuoteOfCategoryViewController.swift in Sources */,
 				C935FD8A2AE04689003F04B1 /* AppDelegate.swift in Sources */,
+				C935FDCC2AE199C6003F04B1 /* QuoteOfCategoryViewControllerDelegate.swift in Sources */,
+				C935FDB12AE05102003F04B1 /* CategoryViewController.swift in Sources */,
+				C935FDC62AE18639003F04B1 /* RealmJoke.swift in Sources */,
+				C935FDCA2AE1952E003F04B1 /* CategoryViewControllerDelegate.swift in Sources */,
+				C935FDB32AE0511E003F04B1 /* CategoryViewCell.swift in Sources */,
 				C935FD8C2AE04689003F04B1 /* SceneDelegate.swift in Sources */,
+				C935FDBB2AE0573F003F04B1 /* CustomButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,6 +483,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		C935FDBF2AE185F4003F04B1 /* XCRemoteSwiftPackageReference "realm-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-swift";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		C935FDC02AE185F4003F04B1 /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C935FDBF2AE185F4003F04B1 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = Realm;
+		};
+		C935FDC22AE185F4003F04B1 /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = C935FDBF2AE185F4003F04B1 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = RealmSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = C935FD7E2AE04689003F04B1 /* Project object */;
 }
